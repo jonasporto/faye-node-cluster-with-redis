@@ -1,0 +1,17 @@
+{
+  "name": "faye-node-cluster-with-redis",
+  "version": "0.0.0",
+  "description": "faye nodejs implementation",
+  "main": "server.js",
+  "dependencies": {
+    "faye": "~1.1.2",
+    "faye-redis": "~0.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "BSD-2-Clause"
+}
